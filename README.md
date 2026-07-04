@@ -1,2 +1,2 @@
 # AI-Sentimental-Analyzer
-Analyze social media or product reviews to determine user sentiment
+Analyze social media or product reviews to determine user sentiment.
